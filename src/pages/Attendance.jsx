@@ -1,4 +1,5 @@
 function Attendance() {
+    
   return (
     <div className="mt-4">
       <h1 className="text-3xl mb-4">Attendance</h1>

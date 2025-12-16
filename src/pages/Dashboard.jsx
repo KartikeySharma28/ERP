@@ -33,7 +33,7 @@ function Dashboard() {
                 Settings
               </button>
               <button className="text-left py-1 mt-1" onClick={() => {
-                navigate("/login");
+                navigate("/");
               }}>
                 Logout
               </button>
