@@ -1,4 +1,4 @@
-// src/components/Menu.jsx
+
 import ProfileImg from "../assets/img/Profile_img.jpg";
 import {
   HomeOutlined,
